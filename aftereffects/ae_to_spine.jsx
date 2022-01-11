@@ -1,4 +1,4 @@
-﻿{
+﻿
 /*
 	Export After Effects to Spine JSON
 	Version 44
@@ -2109,4 +2109,4 @@
 		new AE2JSON(this,true);
 	}
 
-}
+
